@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+
+streamlit
+mysql-connector-python
+bcrypt
+google-genai
+=======
+
+streamlit
+mysql-connector-python
+bcrypt
+google-genai
+>>>>>>> 57add3f (ExamPrep AI)
+PyMuPDF

@@ -1,0 +1,5 @@
+
+streamlit
+bcrypt
+google-genai
+PyMuPDF
